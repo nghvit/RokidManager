@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Neyoshi</h1>
+<h1 align="center">Hi 👋, I'm Ngvhoagnn</h1>
 <h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
 
 - 🔭 I’m currently working on [Rokid Manager](https://discord.gg/rokidmanager)
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/rokidmanager](https://discord.gg/rokidmanager)
+- 👨‍💻 All of my projects are available at **[Rokid Manager](https://discord.gg/rokidmanager)**
 
-- 📫 How to reach me **hoangnguyenn.dev@gmail.com**
+- 📫 How to reach me **[Rokid Manager](https://discord.gg/rokidmanager)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
