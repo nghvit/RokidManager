@@ -1,11 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ngvhoagnn</h1>
-<h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> , I'm Hoang Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center">Full-Stack Developer | Tools Engineer</h3>
 
-- 🔭 I’m currently working on **[Rokid Manager](https://discord.gg/rokidmanager)**
+<p align="center">
+    <i><br>You can contact me on Discord below:</i>
+</p>
 
-- 👨‍💻 All of my projects are available at **[Rokid Manager](https://discord.gg/rokidmanager)**
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/ngvhoagnnn%230000-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</p>
 
-- 📫 How to reach me **[Rokid Manager](https://discord.gg/rokidmanager)**
+<h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
+        <center>
+            <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.<br><br>- On the mysterious, it is the fundamental emotion which stands at the cradle of true art and true science. "He" who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle</em>
+        </center>
+<h1 align="center"></h1>
+        <center>
+            <em>When I was sixteen, I won a great victory. I felt in that moment I would live to be a <b>hundred</b>. Now I know I shall not see thirty. None of us know our end, really, or what hand will guide us there. A king may move a man, a father may claim a son, but that man can also move himself, and only then does that man truly begin his own game. Remember that howsoever you are played or by whom, your soul is in your keeping alone, even though those who presume to play you be kings or men of power. When you stand before God, you cannot say, "But I was told by others to do thus," or that virtue was not convenient at the time. This will not suffice. Remember that.<br><br>- King Baldwin IV</em>    
+        </center>
+<h1 align="center"></h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="center">Shits I know <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /></h3>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+<h1 align="center"></h1>
+
+```
+                                          $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
+                                        $$$$ |  $$ ___$$\ $$ ___$$\ \____$$  |
+                                        \_$$ |  \_/   $$ |\_/   $$ |    $$  / 
+                                          $$ |    $$$$$ /   $$$$$ /    $$  /  
+                                          $$ |    \___$$\   \___$$\   $$  /   
+                                          $$ |  $$\   $$ |$$\   $$ | $$  /    
+                                        $$$$$$\ \$$$$$$  |\$$$$$$  |$$  /     
+                                        \______| \______/  \______/ \__/
+```
+
+<p align="right"><i>pasted from <a href="https://github.com/0xDynamic">0xDynamic</a></i></p>
